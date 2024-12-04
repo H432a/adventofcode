@@ -9,9 +9,6 @@ for line in data:
     list1.append(num1)
     list2.append(num2)
 
-print("List 1:", list1)
-print("List 2:", list2)
-
 sum = 0
 
 while list1 and list2:
